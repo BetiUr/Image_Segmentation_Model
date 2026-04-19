@@ -3,7 +3,7 @@ By: Beatričė Urbaitė
 LSP: 2425051
 Variant: part-time studies, 1st variant
 File3: DeepLabV3 & U-Net Benchmarking (Visuals + Unified Table + Pixel Logic)
-Version 8.0 - Full Integration
+Version 2.0 - Full Integration
 """
 
 import torch
