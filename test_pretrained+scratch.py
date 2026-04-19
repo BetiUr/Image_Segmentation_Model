@@ -184,7 +184,6 @@ if __name__ == "__main__":
         samples = [s for s in dataset]
 
         deeplab, unet = get_deeplab(), get_unet()
-
         # This one function handles Visuals, Metrics math, and Pixel Analysis
         final_metrics = run_comprehensive_analysis(deeplab, unet, samples)
 
